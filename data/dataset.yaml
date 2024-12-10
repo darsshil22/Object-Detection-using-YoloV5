@@ -1,0 +1,7 @@
+# dataset.yaml
+train: D:/AIDI/Object Detection Project/data/processed/train/images  # Path to train images
+val: D:/AIDI/Object Detection Project/data/processed/val/images      # Path to val images
+test: D:/AIDI/Object Detection Project/data/processed/test/images    # Path to test images (optional)
+
+nc: 5  # Number of classes in your dataset
+names: ['person', 'bicycle', 'car', 'dog', 'chair']  # List of class names

@@ -1,0 +1,7 @@
+
+train: D:/AIDI/Object Detection Project/data/processed/train/images
+val: D:/AIDI/Object Detection Project/data/processed/val/images
+
+nc: 5  # Number of classes
+names: ["person", "bicycle", "car", "dog", "chair"]
+    
