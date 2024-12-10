@@ -1,7 +1,3 @@
-Here's a sample `README.md` file for your project:
-
----
-
 # Object Detection Project with YOLO
 
 This project demonstrates object detection using the YOLO model trained on the COCO dataset. The workflow includes preprocessing, training, and evaluation of the model.
